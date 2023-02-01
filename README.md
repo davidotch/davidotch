@@ -1,21 +1,64 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">I'm a frontend developer student at OpenClassRooms</h3>
+![banner_dark](https://user-images.githubusercontent.com/59100016/216194329-452ff7ab-924e-4075-85cf-1c63ae7be82b.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidotch&label=Profile%20views&color=0e75b6&style=flat" alt="davidotch" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidotch" alt="davidotch" /></a> </p>
+## Hey 👋, I'm David!  
+  
 
-- 📫 How to reach me **davidotch@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### Glad to see you here!  
+### I'm a Front-end developer student at OpenClassRooms  
+  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidotch&show_icons=true&locale=en&layout=compact" alt="davidotch" /></p>
+<a href="https://github.com/davidotch" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Davidotch" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidotch&show_icons=true&locale=en" alt="davidotch" /></p>
+<br/>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidotch&" alt="davidotch" /></p>
+
+## Languages and Tools  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidotch&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=davidotch&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=davidotch&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
