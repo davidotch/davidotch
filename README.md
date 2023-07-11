@@ -1,7 +1,7 @@
 ![banner_dark](https://user-images.githubusercontent.com/59100016/216194329-452ff7ab-924e-4075-85cf-1c63ae7be82b.png)
 
 <h2>Hi 👋, I'm David</h2>
-<h2>I'm a Front-end developer student at OpenClassRooms</h2>
+<h2>I'm a Front-end developer</h2>
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Dflooze)<br>
