@@ -1,6 +1,4 @@
-![banner_dark](https://user-images.githubusercontent.com/59100016/216194329-452ff7ab-924e-4075-85cf-1c63ae7be82b.png)
-
-<h2>Hi 👋, I'm David</h2>
+<h1>Hi 👋, I'm David</h1>
 <h2>I'm a Front-end developer</h2>
 
 ## 🌐 Socials:
@@ -26,4 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=davidotch&icon=1&color=4)](https://visitcount.itsvg.in)
 
-Proudly created with GPRM ( https://gprm.itsvg.in )
+
