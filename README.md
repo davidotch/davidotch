@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm David</h1>
-<h2>I'm a Front-end developer</h2>
+<h1>I'm a Front-end developer</h1>
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Dflooze)<br>
